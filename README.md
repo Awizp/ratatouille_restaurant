@@ -1,5 +1,6 @@
 # RATATOUILLE RESTAURANT LANDING PAGE
 * Restaurant landing page created inspired by Ratatouille pixar movie by React framework.
+* Got the design from "JavaScript Mastery" youtube channel
 
 * Used Technologies :
   1. React + Vite
